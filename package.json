@@ -1,0 +1,26 @@
+{
+  "name": "cricket_match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cricket_match.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masibulele22/cricket_match.git"
+  },
+  "author": "Masibulele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masibulele22/cricket_match/issues"
+  },
+  "homepage": "https://github.com/Masibulele22/cricket_match#readme",
+  "dependencies": {
+    "mocha": "^6.2.0",
+    "request": "^2.88.0"
+  }
+}
