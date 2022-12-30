@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Masibulele22/cricket_match#readme",
   "dependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "request": "^2.88.0"
   }
 }
